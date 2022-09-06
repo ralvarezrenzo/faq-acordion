@@ -22,6 +22,7 @@ main {
   height: 665px;
   position: relative;
   background: #fff;
+  box-shadow: 0 15px 25px hsl(237deg, 12%, 33%);
 }
 
 .accordion__img {
